@@ -1,0 +1,17 @@
+menu{
+	position:fixed;
+	top:0;
+	border-bottom:1px solid #222;
+	width:100%;
+	padding:20px 0;
+	margin:0;
+}
+	menu > ul{
+		width:1000px;
+		margin:0 auto;
+		padding:0;
+	}
+		menu ul > li{
+			display:inline;
+			padding:0;
+		}
